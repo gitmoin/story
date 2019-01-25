@@ -1,1 +1,7 @@
 This is my local extra file
+I'm adding this new data to the previous line:
+name	place
+moin	Hyd
+Sal	Hyd
+Lal	Hyd
+Kal	Hyd
